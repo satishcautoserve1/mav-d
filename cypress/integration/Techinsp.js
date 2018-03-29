@@ -39,7 +39,7 @@ describe('Perform inspection', function () {
         cy.get('.list-group > :nth-child(4)').click()
 
 
-        for (var i = 2; i <= 8; i++) {
+        for (var i = 2; i <= 4; i++) {
 
             drive(i);
 
