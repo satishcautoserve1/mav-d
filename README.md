@@ -1,4 +1,4 @@
 # End to End
-install node 8 or later 
-install cypress npm install --save-dev
+1. install node 8 or later
+2. install cypress npm install --save-dev
  
