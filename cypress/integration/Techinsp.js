@@ -50,9 +50,9 @@ describe('Perform inspection', function () {
 
         }
        
-        cy.get(':nth-child(8) > .inspection-item > :nth-child(2) > .row > .inspection-item-map-photo-note > .pull-right > .media-button > .as1-button > .icon').click()
+       // cy.get(':nth-child(8) > .inspection-item > :nth-child(2) > .row > .inspection-item-map-photo-note > .pull-right > .media-button > .as1-button > .icon').click()
 
-        cy.fixture('2.jpg')
+       // cy.fixture('2.jpg')
         // cy.get(':nth-child(2) > #ticket-status > [href="#"] > .pendo-dashboard-v1-ticket-inspection-button > .img-container').click()
 
 
